@@ -1,0 +1,4 @@
+import('RSpectra','Matrix','quantreg','MASS')
+export('ProjDD','ProjSDD','DDPCA_nonconvex','DDPCA_convex','HCdetection','DDHC','IHCDD')
+importFrom("stats", "cov", "pnorm")
+
