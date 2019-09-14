@@ -11,14 +11,14 @@
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{ddpca}
+%\packageDESCRIPTION{ddpca}
 \packageIndices{ddpca}
 This package contains \code{\link{DDPCA_nonconvex}} and \code{\link{DDPCA_convex}} function, which decomposes a positive semidefinite matrix into a low rank component, and a diagonally dominant component using either nonconvex approach or convex approach. 
 }
 \author{
-\packageAuthor{ddpca}
+Tracy Ke [aut], Lingzhou Xue [aut], Fan Yang [aut, cre]
 
-Maintainer: \packageMaintainer{ddpca}
+Maintainer: Fan Yang <fyang1@uchicago.edu>
 }
 
 \references{

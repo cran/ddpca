@@ -1,4 +1,4 @@
-8d26eb04ed160c1253ab695a3f2920cd *DESCRIPTION
+a81cc57fa552f68e080dae7f173b8ee7 *DESCRIPTION
 37d4b13a1b19dc03fc79cc1864507f97 *NAMESPACE
 c206e0714900974ed4789758b8cddb11 *R/DDHC.R
 882647842ccdb89d84b96ed0f7e50e0c *R/DDPCA_convex.R
@@ -7,7 +7,7 @@ b86726465e85d6cad098d47a440033d3 *R/DDPCA_nonconvex.R
 bf18f0938e285cc6b8b3ce09c04eecca *R/IHCDD.R
 7590e9dc0c3abef69577d87ef785a388 *R/ProjDD.R
 54e5811b2c199ce6857b0cad1b3065dc *R/ProjSDD.R
-5811adfc5dd482ab153104586b8e535b *build/partial.rdb
+9ee060fc1a6113212626ec3e4addb13b *build/partial.rdb
 05b3616ad4d75f7de790479fcb5ebdff *man/DDHC.Rd
 c35a161d853081b57e4e9687c7c3b210 *man/DDPCA_convex.Rd
 1acb8e1c19b9b95b7d96f7ddde5510a7 *man/DDPCA_nonconvex.Rd
@@ -15,4 +15,4 @@ c35a161d853081b57e4e9687c7c3b210 *man/DDPCA_convex.Rd
 3352ea61ef3fa0ed023530d2eceb8f2f *man/IHCDD.Rd
 bf9234558295f03668745649b6eec776 *man/ProjDD.Rd
 597e5edade0b26840704ecad6a29972e *man/ProjSDD.Rd
-f6da86a48d1ec4bdcfc5520e7dd28e88 *man/ddpca-package.Rd
+7e62ff1aac41861c3df981c92e304fe1 *man/ddpca-package.Rd
